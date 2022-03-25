@@ -1,5 +1,5 @@
 # Odoo-Library-management-system-
-Library management system 
+Library management system using Odoo14
 # part 1
 • Creating and installing a new add-on module
 • Completing the add-on module manifest
