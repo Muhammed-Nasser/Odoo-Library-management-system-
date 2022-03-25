@@ -16,7 +16,7 @@ Defining the model representation and order
 • Adding relational fields to a model
 • Adding a hierarchy to a model
 • Adding constraint validations to a model
-• Adding computed fields to a model�
+• Adding computed fields to a model
 • Exposing related fields stored in other models
 • Adding dynamic relations using reference fields
 • Adding features to a model using inheritance
